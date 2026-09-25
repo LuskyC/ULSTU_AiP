@@ -127,10 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\laba3\laba3\main_lab3.c" />
-    <ClCompile Include="..\..\laba4\laba4\main4.c" />
-    <ClCompile Include="..\..\Project1\Project1\Source.c" />
+    <ClCompile Include="main4.c" />
+    <ClCompile Include="main_lab3.c" />
     <ClCompile Include="Main_menu.c" />
+    <ClCompile Include="Source.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Module.h" />
